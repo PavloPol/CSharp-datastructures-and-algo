@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algo_Trees_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8e0ae253ca80635acdc8f7acf6b57889d0e61bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algo_Trees_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algo_Trees_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
