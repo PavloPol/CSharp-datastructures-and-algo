@@ -1,0 +1,14 @@
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\bin\Debug\net8.0\Algo_Trees_C#.exe
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\bin\Debug\net8.0\Algo_Trees_C#.deps.json
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\bin\Debug\net8.0\Algo_Trees_C#.runtimeconfig.json
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\bin\Debug\net8.0\Algo_Trees_C#.dll
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\bin\Debug\net8.0\Algo_Trees_C#.pdb
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\obj\Debug\net8.0\Algo_Trees_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\obj\Debug\net8.0\Algo_Trees_C#.AssemblyInfoInputs.cache
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\obj\Debug\net8.0\Algo_Trees_C#.AssemblyInfo.cs
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\obj\Debug\net8.0\Algo_Trees_C#.csproj.CoreCompileInputs.cache
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\obj\Debug\net8.0\Algo_Trees_C#.dll
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\obj\Debug\net8.0\refint\Algo_Trees_C#.dll
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\obj\Debug\net8.0\Algo_Trees_C#.pdb
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\obj\Debug\net8.0\Algo_Trees_C#.genruntimeconfig.cache
+C:\Repositories\Algo_Trees_C#\Algo_Trees_C#\obj\Debug\net8.0\ref\Algo_Trees_C#.dll
